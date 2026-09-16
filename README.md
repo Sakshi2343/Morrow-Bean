@@ -97,11 +97,6 @@ Seeded data includes:
 - AeroPress-compatible manual brew gear
 - Subscription inventory
 
-## Production Build
-
-```bash
-npm run build --prefix frontend
-```
 
 The backend already serves `frontend/dist` in production mode.
 
